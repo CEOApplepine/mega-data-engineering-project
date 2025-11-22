@@ -51,3 +51,16 @@ This project demonstrates a complete data engineering workflow, from raw data ex
 - Include screenshots of charts and dashboard visualizations.  
 - Add explanations of transformations and insights in each notebook.  
 - Use this repo as a portfolio project to demonstrate Senior Data Engineer skills.
+
+## Mini Projects
+
+### Real-Time Streaming Simulation
+- Simulates streaming ETL using PySpark.
+- Processes large datasets in batch mode.
+- Demonstrates big data ingestion and transformation.
+
+### NoSQL Integration (MongoDB)
+- Loads structured datasets into MongoDB.
+- Demonstrates querying and aggregation with Python.
+- Shows knowledge of modern data platforms.
+
