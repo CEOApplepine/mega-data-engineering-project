@@ -46,21 +46,38 @@ This project demonstrates a complete data engineering workflow, from raw data ex
 - seaborn  
 - plotly  
 
-## Optional Enhancements
+#Mini Projects
 
-- Include screenshots of charts and dashboard visualizations.  
-- Add explanations of transformations and insights in each notebook.  
-- Use this repo as a portfolio project to demonstrate Senior Data Engineer skills.
+Mini Project 1: Air Travel Data ETL
+	•	Technologies: Python, Pandas, MongoDB
+	•	Loaded CSV dataset directly from URL into MongoDB Atlas.
+	•	Performed data cleaning, ETL operations, and simple analytics.
+	•	Queried MongoDB to find months with more than 400 passengers in January.
 
-## Mini Projects
+Mini Project 2: Retail & Taxi Data Processing
+	•	Technologies: Python, PySpark
+	•	Built Spark DataFrames to process multiple large datasets in parallel.
+	•	Applied transformations, filtering, and aggregation to generate insights.
+	•	Demonstrated big data pipeline optimization and real-world business analysis.
 
-### Real-Time Streaming Simulation
-- Simulates streaming ETL using PySpark.
-- Processes large datasets in batch mode.
-- Demonstrates big data ingestion and transformation.
+⸻
 
-### NoSQL Integration (MongoDB)
-- Loads structured datasets into MongoDB.
-- Demonstrates querying and aggregation with Python.
-- Shows knowledge of modern data platforms.
+Results / Insights
+	•	Successfully ingested and transformed raw datasets into usable data structures.
+	•	Demonstrated cloud database integration and scalable data pipelines.
+	•	Generated analytical insights, such as passenger trends and retail/taxi metrics.
 
+⸻
+
+How to Run
+	1.	Open notebooks in Google Colab.
+	2.	Install required packages via requirements.txt or notebook cells.
+	3.	Connect to MongoDB Atlas (for Mini Project 1).
+	4.	Execute cells sequentially to reproduce ETL, transformation, and analysis.
+
+⸻
+
+Future Enhancements
+	•	Add real-time streaming pipelines for continuous data ingestion.
+	•	Integrate additional datasets for extended analytics.
+	•	Implement optimized dashboards for business insights.
